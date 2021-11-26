@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592313527 source:c:\users\raul_\documents\ejercicios pogramacion3\proyectofinal3\main.cpp
+	<iostream>
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<thread>
+	<mutex>
+	<chrono>
+	<time.h>
+	<vector>
+
+1593542583 source:c:\users\raul__uiefv8e\onedrive\ejercicios pogramacion3\proyectofinal3\main.cpp
+	<iostream>
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<thread>
+	<mutex>
+	<chrono>
+	<time.h>
+	<vector>
+

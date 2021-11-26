@@ -1,0 +1,10 @@
+Divie y venceras!!!...
+
+Proyecto final 3:
+
+Paso 1. Dibujar una Matriz de 3 x 3 en pantalla.
+Paso 2. Localizar un jugador que se mueva por la matriz izquierda
+derecha,arriba y abajo.
+Paso 3. Construir muros y que el jugador pueda moverse entre ellos. recorriendo
+todos los posibles lugares.
+Paso 4. 
